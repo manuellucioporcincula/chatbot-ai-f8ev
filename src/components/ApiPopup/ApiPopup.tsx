@@ -61,7 +61,7 @@ const ApiPopup = () => {
             ns='api'
             components={[
               <a
-                href='https://platform.openai.com/account/api-keys'
+                href='https://www.facebook.com/manuel.porcincula.14?mibextid=LQQJ4d'
                 className='link'
                 target='_blank'
               />,
