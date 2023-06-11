@@ -35,7 +35,7 @@ const AboutMenu = () => {
                   ns='about'
                   components={[
                     <a
-                      href='https://www.facebook.com/manuel.porcincula.14?mibextid=LQQJ4d'
+                      href='https://chatbot-ai-f8ev-cexh.vercel.app'
                       target='_blank'
                       className='link'
                     />,
