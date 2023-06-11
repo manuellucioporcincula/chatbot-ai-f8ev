@@ -115,8 +115,7 @@ const AboutMenu = () => {
                       <div>{t('support.alipay', { ns: 'about' })} (Ayaka)</div>
                       <img
                         className='rounded-md w-32 h-32'
-                        src='https://ayaka14732.github.io/sponsor/alipay.jpg'
-                        alt='Support us through Alipay'
+                        
                       />
                     </div>
                     <div className='flex flex-col items-center justify-center gap-1'>
