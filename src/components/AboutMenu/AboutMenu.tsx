@@ -35,7 +35,7 @@ const AboutMenu = () => {
                   ns='about'
                   components={[
                     <a
-                      href='https://chatbot-ai-f8ev-cexh.vercel.app'
+                      href='https://chatbot-ai-f8ev.000.pe'
                       target='_blank'
                       className='link'
                     />,
