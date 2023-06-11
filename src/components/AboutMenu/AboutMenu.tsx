@@ -87,7 +87,7 @@ const AboutMenu = () => {
                     ns='about'
                     components={[
                       <a
-                        href='https://www.facebook.com/manuel.porcincula.14?mibextid=LQQJ4d'
+                        href=''
                         target='_blank'
                         className='link'
                       />,
